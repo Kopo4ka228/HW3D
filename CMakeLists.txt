@@ -4,7 +4,7 @@ project(triangles)
 
 set(SOURCES
     funcs.cpp
-    test.cc
+    main.cc
 )
 
 set(HEADERS

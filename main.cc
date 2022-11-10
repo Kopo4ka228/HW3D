@@ -5,6 +5,7 @@
 
 int main()
 {
+
     std::ifstream fin("input.txt");
     std::ofstream out("output.txt");
     if (!fin.is_open()) {std::cout << "file wrong";}
